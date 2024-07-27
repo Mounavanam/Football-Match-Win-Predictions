@@ -10,10 +10,10 @@ In this project, we'll predict the winner of football matches in the English Pre
 
 ## Tech Stack
 - Python packages
-      - pandas
-      - requests
-      - BeautifulSoup
-      - scikit-learn
+     # - pandas
+     # - requests
+     # - BeautifulSoup
+     # - scikit-learn
 
 ## How can it be Improved?
 - Fine-tuning the hyperparameters of the Random Forest model can significantly improve the performance. 
